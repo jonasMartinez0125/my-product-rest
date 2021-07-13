@@ -4,7 +4,8 @@
   "description": "It's a rest server project",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "node app.js",
+    "dev": "nodemon app"
   },
   "author": "Jonas Martinez",
   "license": "ISC",
